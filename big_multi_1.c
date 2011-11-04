@@ -2,7 +2,7 @@
 两个大数相乘问题
 http://zhidao.baidu.com/question/326369234.html?fr=fd
 
-华为面试中解决了这个问题后，他会提出这个数非常大，然后怎么解决？ 
+这两个数非常大，怎么解决？ 
 */
 #include <stdio.h>
 #include <string.h>
